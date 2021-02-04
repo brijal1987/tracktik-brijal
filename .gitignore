@@ -1,2 +1,3 @@
 # PHPUnit
-/vendor
+vendor
+vendor/*
