@@ -1,0 +1,22 @@
+{
+    "name": "brijal-savaliya/tracktik-challenge",
+    "description": "This is Tracktil code challenge",
+    "authors": [
+        {
+            "name": "Brijal Savaliya",
+            "email": "brijal.savaliya@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Backend\\": "backend/"
+        },
+        "files": [
+            "Frontend/functions.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
